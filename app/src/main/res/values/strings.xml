@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CoffeeSaver</string>
+
+    <!--  |||||||||||||||||||||  BUTTONS  ||||||||||||||||||||||||||-->
+    <string name="button_increase_coffee">Add one Coffee!</string>
+    <string name="button_increase_juice">Add one Juice!</string>
+    <string name="button_reset">Reset Counters</string>
+
+
+    <!-- ////////////////////// STRINGS //////////////////////////-->
+    <string name="string_saved">You saved:</string>
+
+
+
+</resources>
